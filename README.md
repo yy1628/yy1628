@@ -22,11 +22,11 @@ Js:
 cocos：
   MVVM：https://github.com/wsssheep/cocos_creator_mvvm_tools
   虚拟列表：https://github.com/gh-kL/cocoscreator-list
+  多语言： https://github.com/ahuangege/creator_i18n
   引擎内部数学工具类：https://github.dev/cocos/cocos-engine/blob/v3.6.0/cocos/core/math/utils.ts#L1
   引擎内部工具类：https://github.dev/cocos/cocos-engine/blob/v3.6.1/cocos/core/utils/index.ts#L1 (arry、path比较有用)
   实时节点树 ccc-devtools: https://github.com/potato47/ccc-devtools/tree/2d-v2.4（分支里有各个版本）
   spine编辑器内预览解决方案：https://forum.cocos.org/t/topic/101524/18
-  
 Unity:
   官方技术讲解 DOTS：https://www.bilibili.com/video/BV18J411t7G8
   官方Ecs框架 Entitas：https://github.com/sschmid/Entitas
