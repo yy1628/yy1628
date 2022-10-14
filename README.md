@@ -5,7 +5,7 @@
 - 📫 How to reach me ...
 
 ### shader：
-    [shadertoy](https://www.shadertoy.com/)
+  - [shadertoy](https://www.shadertoy.com/)
 
 ### 资料：
   - [六边形网格](https://www.cnblogs.com/o0olele/p/13693621.html)
