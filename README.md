@@ -19,6 +19,7 @@
   - [性能优秀的多边形计算库](https://github.com/velipso/polybooljs)
   - [性能优秀的A*计算库](https://github.com/bgrins/javascript-astar)
   - [DrawCall查看插件 SpectorJS](https://github.com/BabylonJS/Spector.js)
+  - [Boids群集模拟SwarmJS](https://jrhdoty.github.io/SwarmJS/)
   
 ### cocos：
   - [MVVM](https://github.com/wsssheep/cocos_creator_mvvm_tools)
