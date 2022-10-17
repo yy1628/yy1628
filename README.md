@@ -34,7 +34,7 @@
   - [官方Ecs框架Entitas](https://github.com/sschmid/Entitas)
   - [腾讯开源项目PuerTS](https://github.com/Tencent/puerts)
   
-### Git工具推荐 
+### Git工具
   - [GitKraken](https://zhuanlan.zhihu.com/p/98960725)
   - [GitLens](https://zhuanlan.zhihu.com/p/363064231)
   
