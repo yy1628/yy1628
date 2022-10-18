@@ -63,7 +63,7 @@ echo '<?xml version="1.0" encoding="UTF-8"?>
 
 # 编译
 # 证书解锁
-security unlock-keychain -p ${###mac用户密码} ${###签名地址]
+security unlock-keychain -p ${### mac用户密码} ${### login.keychain-db 地址]
 # 修改版本号
 /usr/libexec/Plistbuddy -c "Set CFBundleVersion $VERSION_NAME" "$info_path"
 /usr/libexec/Plistbuddy -c "Set CFBundleShortVersionString $VERSION_NAME" "$info_path"
