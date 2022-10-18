@@ -24,6 +24,7 @@
 ### IOS:
   - [xcodebuild 命令行打包 ipa](https://blog.csdn.net/feelinghappy/article/details/122460683)
   - [iTMSTransporter 命令行上传 ipa](https://blog.csdn.net/cwf19860527/article/details/121958841)
+  - [打包上传脚本](https://github.com/yy1628/yy1628/blob/main/build_ios.sh)
   
 ### cocos：
   - [MVVM](https://github.com/wsssheep/cocos_creator_mvvm_tools)
