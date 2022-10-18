@@ -10,7 +10,7 @@
 ### 资料：
   - [六边形网格](https://www.cnblogs.com/o0olele/p/13693621.html)
   - [毛星云游戏设计模式](https://blog.csdn.net/poem_qianmo/article/details/53240330)
-  - [阮一峰ES6Promise](https://es6.ruanyifeng.com/#docs/promise)
+  - [阮一峰ES6 Promise](https://es6.ruanyifeng.com/#docs/promise)
   - [守墓人2D光影实现思路](http://www.gamelook.com.cn/2018/11/342650)
   - [动物餐厅内存优化思路](https://forum.cocos.org/t/topic/79251)
   - [江南百景图多纹理合批思路](https://forum.cocos.org/t/topic/121618)
