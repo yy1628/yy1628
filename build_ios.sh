@@ -84,4 +84,3 @@ xcodebuild -exportArchive -archivePath $archive_path -exportOptionsPlist $export
 
 #上传ipa
 xcrun iTMSTransporter -m upload -v informational -assetFile ${export_path}/${project_scheme}.ipa -u ${###apple账号} -p ${###二级密码} 
-python3 /Users/yuanyuan/scrpit/end_build_ios_appstore.py $JOB_URL $JOB_NAME $GIT_BRANCH $VERSION_NAME "${SCM_CHANGELOG}"
