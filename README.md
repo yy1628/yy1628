@@ -28,11 +28,11 @@
   - [引擎内部数学工具类](https://github.dev/cocos/cocos-engine/blob/v3.6.0/cocos/core/math/utils.ts#L1)
   - [引擎内部工具类](https://github.dev/cocos/cocos-engine/blob/v3.6.0/cocos/core/utils/index.ts#L1) (arry、path比较有用)
   - [实时节点树ccc-devtools](https://github.com/potato47/ccc-devtools/tree/2d-v2.4) (分支里有各个版本)
-  - [spine编辑器内预览解决方案](https://forum.cocos.org/t/topic/101524/18)
+  - [spine编辑器内预览解决方案](https://forum.cocos.org/t/topic/101524/7)
 ### Unity:
-  - [官方技术讲解DOTS](https://www.bilibili.com/video/BV18J411t7G8)
-  - [官方Ecs框架Entitas](https://github.com/sschmid/Entitas)
-  - [腾讯开源项目PuerTS](https://github.com/Tencent/puerts)
+  - [官方技术讲解 DOTS](https://www.bilibili.com/video/BV18J411t7G8)
+  - [官方Ecs框架 Entitas](https://github.com/sschmid/Entitas)
+  - [腾讯开源项目 PuerTS](https://github.com/Tencent/puerts)
   
 ### Git工具
   - [GitKraken](https://zhuanlan.zhihu.com/p/98960725)
