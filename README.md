@@ -12,7 +12,7 @@
   - [守墓人2D光影实现思路](http://www.gamelook.com.cn/2018/11/342650)
   - [动物餐厅内存优化思路](https://forum.cocos.org/t/topic/79251)
   - [江南百景图多纹理合批思路](https://forum.cocos.org/t/topic/121618)
-  - [纹理压缩](https://forum.cocos.org/t/topic/114862)
+  - [纹理压缩插件](https://forum.cocos.org/t/cocos-creator/80024)
 ### Js:
   - [性能优秀的多边形计算库](https://github.com/velipso/polybooljs)
   - [性能优秀的A*计算库](https://github.com/bgrins/javascript-astar)
