@@ -4,10 +4,6 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-### shader：
-  - [shadertoy](https://www.shadertoy.com/)
-  - [glslsandbox](https://glslsandbox.com/)
-
 ### 资料：
   - [六边形网格](https://www.cnblogs.com/o0olele/p/13693621.html)
   - [毛星云游戏设计模式](https://blog.csdn.net/poem_qianmo/article/details/53240330)
@@ -42,7 +38,10 @@
   - [官方Ecs框架 Entitas](https://github.com/sschmid/Entitas)
   - [腾讯开源项目 PuerTS](https://github.com/Tencent/puerts)
   
-### Git工具
+### 工具
+  - [BMF字体](https://snowb.org/)
+  - [shadertoy](https://www.shadertoy.com/)
+  - [glslsandbox](https://glslsandbox.com/)
   - [GitKraken](https://zhuanlan.zhihu.com/p/98960725)
   - [GitLens](https://zhuanlan.zhihu.com/p/363064231)
   
