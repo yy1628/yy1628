@@ -32,6 +32,7 @@
   - [引擎内部工具类](https://github.dev/cocos/cocos-engine/blob/v3.6.0/cocos/core/utils/index.ts#L1) (arry、path比较有用)
   - [实时节点树ccc-devtools](https://github.com/potato47/ccc-devtools/tree/2d-v2.4) (分支里有各个版本)
   - [spine编辑器内预览解决方案](https://forum.cocos.org/t/topic/101524/7)
+  - [小游戏端代码混淆插件](https://forum.cocos.org/t/topic/140251)
   
 ### Unity:
   - [官方技术讲解 DOTS](https://www.bilibili.com/video/BV18J411t7G8)
