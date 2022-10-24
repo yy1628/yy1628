@@ -5,6 +5,7 @@
 - 📫 How to reach me ...
 
 ### 资料：
+  - [编码规范](https://docs.cocos.com/creator/manual/zh/scripting/reference/coding-standards.html)
   - [六边形网格](https://www.cnblogs.com/o0olele/p/13693621.html)
   - [毛星云游戏设计模式](https://blog.csdn.net/poem_qianmo/article/details/53240330)
   - [阮一峰ES6 Promise](https://es6.ruanyifeng.com/#docs/promise)
