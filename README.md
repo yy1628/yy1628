@@ -35,7 +35,7 @@
   - [实时节点树ccc-devtools](https://github.com/potato47/ccc-devtools/tree/2d-v2.4) (分支里有各个版本)
   - [spine编辑器内预览解决方案](https://forum.cocos.org/t/topic/101524/7)
   - [小游戏端代码混淆插件](https://forum.cocos.org/t/topic/140251)
-  - [2.4高效纹理压缩解决方案](https://github.com/jordiwang/cocos-compress_etc)
+  - [2.4.x 纹理压缩解决方案](https://github.com/jordiwang/cocos-compress_etc)
   
 ### Unity:
   - [官方技术讲解 DOTS](https://www.bilibili.com/video/BV18J411t7G8)
