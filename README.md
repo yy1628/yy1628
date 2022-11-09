@@ -49,6 +49,7 @@
   - [GitKraken](https://zhuanlan.zhihu.com/p/98960725)
   - [GitLens](https://zhuanlan.zhihu.com/p/363064231)
   - [sockboom](https://sockboom.bar/)
+  - [other](https://github.com/yy1628/yy1628/blob/main/SHARE.md)
 
 ### 问题记录
   - [mac 纹理压缩ETC alpha精度丢失](https://forum.cocos.org/t/ios-etc-mac/88456/13)
