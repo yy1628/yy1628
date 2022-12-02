@@ -30,6 +30,7 @@
 ### cocos：
   - [MVVM](https://github.com/wsssheep/cocos_creator_mvvm_tools)
   - [虚拟列表](https://github.com/gh-kL/cocoscreator-list)
+  - [虚拟列表(支持动态高或宽)](https://github.com/backjy/CCC-LoopList)
   - [多语言](https://github.com/ahuangege/creator_i18n)
   - [引擎内部数学工具类](https://github.dev/cocos/cocos-engine/blob/v3.6.0/cocos/core/math/utils.ts#L1)
   - [引擎内部工具类](https://github.dev/cocos/cocos-engine/blob/v3.6.0/cocos/core/utils/index.ts#L1) (arry、path比较有用)
