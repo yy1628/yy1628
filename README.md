@@ -40,6 +40,7 @@
   - [压缩纹理及详细介绍](https://forum.cocos.org/t/topic/114862)
   - [2.4.x 压缩纹理缓存方案](https://forum.cocos.org/t/mac-os-10-15-windows10/90670)
   - [ShaderToy 转 Cocos Shader](https://mp.weixin.qq.com/s/-Hln3G-ZpPUwhpl6ClJLpg)
+  - [2D实时水面反射](https://forum.cocos.org/t/topic/137681)
   
 ### Unity:
   - [官方技术讲解 DOTS](https://www.bilibili.com/video/BV18J411t7G8)
