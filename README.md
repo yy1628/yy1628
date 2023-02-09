@@ -15,8 +15,8 @@
   - [江南百景图多纹理合批思路](https://forum.cocos.org/t/topic/121618)
   - [游戏开发中的ECS 架构概述](https://zhuanlan.zhihu.com/p/30538626)
   - [微信小游戏定义文件](https://github.com/wechat-miniprogram/minigame-api-typings)
-  - [OpenGl](https://learnopengl-cn.readthedocs.io/zh/latest/)
-  - [WebGl](https://webglfundamentals.org/webgl/lessons/zh_cn/)
+  - [OpenGL](https://learnopengl-cn.readthedocs.io/zh/latest/)
+  - [WebGL](https://webglfundamentals.org/webgl/lessons/zh_cn/)
   
 ### Js:
   - [性能优秀的多边形计算库](https://github.com/velipso/polybooljs)
