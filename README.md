@@ -23,7 +23,8 @@
   - [性能优秀的A*计算库](https://github.com/bgrins/javascript-astar)
   - [DrawCall查看插件 SpectorJS](https://github.com/BabylonJS/Spector.js)
   - [Boids群集算法 SwarmJS](https://jrhdoty.github.io/SwarmJS/)
-  - [规避算法 RVO2](https://gamma.cs.unc.edu/RVO2/)
+  - [RVO2规避算法](https://gamma.cs.unc.edu/RVO2/)
+  - [RVO2避障算法原理](https://mp.weixin.qq.com/s/WgBQmN7Iyj6kKswQ4WZFeA)
   
 ### IOS:
   - [xcodebuild 命令行打包 ipa](https://blog.csdn.net/feelinghappy/article/details/122460683)
