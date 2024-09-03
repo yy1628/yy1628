@@ -54,6 +54,7 @@
   
 ### 工具
   - [BMF字体](https://snowb.org/)
+  - [Free Texture Packer](https://free-tex-packer.com/)
   - [shadertoy](https://www.shadertoy.com/)
   - [glslsandbox](https://glslsandbox.com/)
   - [GitKraken](https://zhuanlan.zhihu.com/p/98960725)
