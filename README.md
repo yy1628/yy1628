@@ -6,7 +6,8 @@
 
 ### 资料：
   - [编码规范](https://docs.cocos.com/creator/manual/zh/scripting/reference/coding-standards.html)
-  - [六边形网格](https://blog.csdn.net/qq_33446100/article/details/108622162)
+  - [六边形网格1](https://blog.csdn.net/qq_33446100/article/details/108622162)
+  - [六边形网格2](https://www.redblobgames.com/grids/hexagons/)
   - [毛星云游戏设计模式](https://blog.csdn.net/poem_qianmo/article/details/53240330)
   - [阮一峰ES6 Promise](https://es6.ruanyifeng.com/#docs/promise)
   - [阮一峰ES6 Decorator](https://es6.ruanyifeng.com/#docs/decorator)
@@ -21,6 +22,7 @@
 ### Js:
   - [性能优秀的多边形计算库](https://github.com/velipso/polybooljs)
   - [性能优秀的A*计算库](https://github.com/bgrins/javascript-astar)
+  - [2dNavMesh](https://github.com/mikewesthad/navmesh)
   - [DrawCall查看插件 SpectorJS](https://github.com/BabylonJS/Spector.js)
   - [Boids群集算法 SwarmJS](https://jrhdoty.github.io/SwarmJS/)
   - [RVO2规避算法](https://gamma.cs.unc.edu/RVO2/)
